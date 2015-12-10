@@ -1,2 +1,0 @@
-tas_car/simple_navigation_goals:tas_car/tas:tas_car/tas_autonomous_control:tas_car/wii_control
--DCATKIN_DEVEL_PREFIX=/home/tas/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tas/catkin_ws/install -G Unix Makefiles
